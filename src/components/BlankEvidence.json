@@ -1,0 +1,547 @@
+{
+    "resourceType": "Evidence",
+    "id": "",
+    "meta": {
+      "versionId": ""
+    },
+    "url": "",
+    "identifier": [
+      {
+        "use": "",
+        "type": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "system": "",
+        "value": "",
+        "period": {
+          "start": "",
+          "end": ""
+        },
+        "assigner": {
+          "reference": "",
+          "type": "",
+          "display": ""
+        }
+      }
+    ],
+    "title": "",
+    "status": "",
+    "useContext": [
+      {
+        "code": {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        },
+        "valueCodeableConcept": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "valueQuantity": {
+          "value": "",
+          "comparator": "",
+          "unit": "",
+          "system": "",
+          "code": ""
+        },
+        "valueRange": {
+          "low": {
+            "value": "",
+            "unit": "",
+            "system": "",
+            "code": ""
+          },
+          "high": {
+            "value": "",
+            "unit": "",
+            "system": "",
+            "code": ""
+          }
+        },
+        "valueReference": {
+          "reference": "",
+          "type": "",
+          "identifier": "",
+          "display": ""
+        }
+      }
+    ],
+    "date": "",
+    "copyright": "",
+    "approvalDate": "",
+    "lastReviewDate": "",
+    "contributor": [
+      {
+        "type": "",
+        "name": "",
+        "contact": [
+          {
+            "name": "",
+            "telecom": [
+              {
+                "system": "",
+                "value": "",
+                "use": "",
+                "rank": "",
+                "period": {
+                  "start": "",
+                  "end": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "relatedArtifact": [
+      {
+        "type": "",
+        "label": "",
+        "display": "",
+        "citation": "",
+        "url": "",
+        "document": {
+          "contentType": "",
+          "language": "",
+          "data": "",
+          "url": "",
+          "size": "",
+          "hash": "",
+          "title": "",
+          "creation": ""
+        },
+        "resource": ""
+      }
+    ],
+    "description": "",
+    "assertion": "",
+    "note": [
+      {
+        "text": ""
+      }
+    ],
+    "variableDefinition": [
+      {
+        "description": "",
+        "note": [
+          {
+            "text": ""
+          }
+        ],
+        "variableRole": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "observed": {
+          "reference": "",
+          "type": "",
+          "identifier": "",
+          "display": ""
+        },
+        "intended": {
+          "reference": "",
+          "type": "",
+          "identifier": "",
+          "display": ""
+        },
+        "directnessMatch": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        }
+      }
+    ],
+    "synthesisType": {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    },
+    "studyType": {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    },
+    "statistic": [
+      {
+        "description": "",
+        "note": [
+          {
+            "text": ""
+          }
+        ],
+        "statisticType": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "quantity": {
+          "value": "",
+          "comparator": "",
+          "unit": "",
+          "system": "",
+          "code": ""
+        },
+        "numberOfEvents": "",
+        "sampleSize": {
+          "description": "",
+          "note": [
+            {
+              "text": ""
+            }
+          ],
+          "numberOfStudies": "",
+          "numberOfParticipants": "",
+          "knownDataCount": ""
+        },
+        "attributeEstimate": [
+          {
+            "description": "",
+            "note": [
+              {
+                "text": ""
+              }
+            ],
+            "type": {
+              "coding": [
+                {
+                  "system": "",
+                  "version": "",
+                  "code": "",
+                  "display": "",
+                  "userSelected": ""
+                }
+              ],
+              "text": ""
+            },
+            "quantity": {
+              "value": "",
+              "comparator": "",
+              "unit": "",
+              "system": "",
+              "code": ""
+            },
+            "level": "",
+            "range": {
+              "low": {
+                "value": "",
+                "unit": "",
+                "system": "",
+                "code": ""
+              },
+              "high": {
+                "value": "",
+                "unit": "",
+                "system": "",
+                "code": ""
+              }
+            }
+          }
+        ],
+        "modelCharacteristic": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "system": "",
+                  "version": "",
+                  "code": "",
+                  "display": "",
+                  "userSelected": ""
+                }
+              ],
+              "text": ""
+            },
+            "value": {
+              "value": "",
+              "unit": "",
+              "system": "",
+              "code": ""
+            },
+            "variable": [
+              {
+                "variableDefinition": {},
+                "handling": "",
+                "valueCategory": {
+                  "coding": [
+                    {
+                      "system": "",
+                      "version": "",
+                      "code": "",
+                      "display": "",
+                      "userSelected": ""
+                    }
+                  ],
+                  "text": ""
+                },
+                "valueQuantity": {
+                  "value": "",
+                  "comparator": "",
+                  "unit": "",
+                  "system": "",
+                  "code": ""
+                },
+                "valueRange": {
+                  "low": {
+                    "value": "",
+                    "unit": "",
+                    "system": "",
+                    "code": ""
+                  },
+                  "high": {
+                    "value": "",
+                    "unit": "",
+                    "system": "",
+                    "code": ""
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "distribution": [
+      {
+        "description": "",
+        "note": [
+          {
+            "text": ""
+          }
+        ],
+        "numberOfIntervals": "",
+        "bottomOfFirstInterval": {
+          "value": "",
+          "comparator": "",
+          "unit": "",
+          "system": "",
+          "code": ""
+        },
+        "interval": [
+          {
+            "rankOrder": "",
+            "topOfInterval": {
+              "value": "",
+              "comparator": "",
+              "unit": "",
+              "system": "",
+              "code": ""
+            },
+            "intervalStatistic": [
+              {
+                "description": "",
+                "note": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "statisticType": {
+                  "coding": [
+                    {
+                      "system": "",
+                      "version": "",
+                      "code": "",
+                      "display": "",
+                      "userSelected": ""
+                    }
+                  ],
+                  "text": ""
+                },
+                "quantity": {
+                  "value": "",
+                  "comparator": "",
+                  "unit": "",
+                  "system": "",
+                  "code": ""
+                },
+                "sampleSize": {
+                  "description": "",
+                  "note": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "numberOfStudies": "",
+                  "numberOfParticipants": "",
+                  "knownDataCount": "",
+                  "numeratorCount": ""
+                },
+                "attributeEstimate": [
+                  {
+                    "description": "",
+                    "note": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": {
+                      "coding": [
+                        {
+                          "system": "",
+                          "version": "",
+                          "code": "",
+                          "display": "",
+                          "userSelected": ""
+                        }
+                      ],
+                      "text": ""
+                    },
+                    "quantity": {
+                      "value": "",
+                      "comparator": "",
+                      "unit": "",
+                      "system": "",
+                      "code": ""
+                    },
+                    "level": "",
+                    "range": {
+                      "low": {
+                        "value": "",
+                        "unit": "",
+                        "system": "",
+                        "code": ""
+                      },
+                      "high": {
+                        "value": "",
+                        "unit": "",
+                        "system": "",
+                        "code": ""
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "certainty": [
+      {
+        "description": "",
+        "note": [
+          {
+            "text": ""
+          }
+        ],
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "",
+                "version": "",
+                "code": "",
+                "display": "",
+                "userSelected": ""
+              }
+            ],
+            "text": ""
+          }
+        ],
+        "rating": [
+          {
+            "coding": [
+              {
+                "system": "",
+                "version": "",
+                "code": "",
+                "display": "",
+                "userSelected": ""
+              }
+            ],
+            "text": ""
+          }
+        ],
+        "rater": "",
+        "subcomponent": [
+          {
+            "description": "",
+            "note": [
+              {
+                "text": ""
+              }
+            ],
+            "type": {
+              "coding": [
+                {
+                  "system": "",
+                  "version": "",
+                  "code": "",
+                  "display": "",
+                  "userSelected": ""
+                }
+              ],
+              "text": ""
+            },
+            "rating": {
+              "coding": [
+                {
+                  "system": "",
+                  "version": "",
+                  "code": "",
+                  "display": "",
+                  "userSelected": ""
+                }
+              ],
+              "text": ""
+            },
+            "rater": ""
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,106 @@
+.resultsTable {
+    /* border: 2px solid rgba(34,36,38,.4) !important; */
+    box-shadow: 2px 6px 6px -4px rgba(100, 100, 100, 0.8) !important;
+}
+
+.nothingCell {
+    border: none !important;
+}
+
+td:first-child:not(.inputCell):not(.calculatedCell):not(.displayPageCell) {
+    border-top: 2px solid rgba(34,36,38,.4) !important;
+}
+
+.resultsTableRow > td:first-child {
+    border-left: 3px solid rgba(34,36,38,.5) !important;
+}
+
+.resultsTable {
+    border-bottom: 3px solid rgba(34,36,38,.5) !important;
+    border-right: 3px solid rgba(34,36,38,.5) !important;
+}
+
+
+td:not(:first-child) {
+    border-left: 2px solid rgba(34,36,38,.4) !important;
+    border-top: 2px solid rgba(34,36,38,.4) !important;
+}
+
+th {
+    border-left: 2px solid rgba(34,36,38,.4) !important;
+    text-align: center !important;
+}
+
+.rowHeader {
+    vertical-align: top;
+    width: 400px;
+}
+
+.compoundCellTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.trialCell {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.inputCell {
+    background: #FFFFFF !important;
+    border: none !important;
+    font-weight: normal !important;
+}
+
+.dichotomousTrialCell {
+    vertical-align: bottom;
+}
+
+.measuresTable .calculatedCell {
+    background: #B6EEBD !important;
+    border: none !important;
+    border-top: 1px solid rgba(34,36,38,.1) !important;
+}
+
+.measuresTable .calculatedTotalCell {
+    background: #B6EEBD !important;
+}
+
+.measuresTable .calculatedCellMissingInput {
+    background: #FDE6CC !important;
+}
+
+.trialDisplayCalculatedPercentage {
+    font-size: 26px !important;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.outcomeName, .outcomeDescription {
+    width: 100%;
+}
+
+.headerInput {
+    width: 150px !important;
+}
+
+.headerButton {
+    margin-top: 4px !important;
+}
+
+.ui.table thead tr:first-child > th {
+    position: sticky !important;
+    top: 0;
+    z-index: 2;
+    border-bottom: 5px solid rgba(34,36,38,.3);
+    box-shadow: 0px 4px 3px -1px rgba(100, 100, 100, 0.3) !important;
+}
+
+.displayPageMeasureTopRow, .displayPageMeasureTopRow td {
+    border-bottom: 0px !important;
+    border-top: 0px !important;
+}
+
+.displayPageMeasureBottomRow, .displayPageMeasureBottomRow td {
+    border-bottom: 3px solid rgba(38,38,38,.8);
+}

@@ -1,0 +1,253 @@
+.App {
+    padding: 3rem;
+}
+
+
+.containerSegment{
+    background-color: #f4f4f4 !important;    
+}
+
+.subSegment {
+    background-color: #d7e3ec !important;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0; 
+}
+
+.inputLine {
+    padding-top: 24px;
+}
+
+.inputLine, .outputLine {
+    display: flex;
+    justify-content: center;
+}
+
+.totalInputLine {
+    justify-content: left;
+}
+
+.studyTitleInput {
+    width: 455px;
+}
+
+.studyIdentifierInput {
+    width: 202px;
+}
+
+.studyNumberOfParticipants {
+    width: 190px;
+}
+
+.segmentInputLine, .picoInputLine {
+    padding-top: 0px !important;
+}
+
+.populationNameInput, .exposureNameInput {
+    width: 40% !important;
+}
+
+.populationDescriptionInput, .exposureDescriptionInput {
+    width: 100% !important;
+}
+
+.agesEligibleDescriptionInput {
+    width: 280px !important;
+}
+
+.agesEligibleInput {
+    width: 140px !important;
+}
+
+.leftAlign {
+    justify-content: left !important;
+}
+.slashSeparator {
+    font-size: 42px;
+    font-weight: bold;
+    align-self: center;
+}
+
+.rangeToLabel {
+    font-size: 24px;
+    font-weight: normal;
+    align-self: center;
+}
+
+.rangeLow, .rangeHigh, .iqrLow, .iqrHigh, .ciLow, .ciHigh {
+    width: 103px;
+}
+
+.inputField {
+    background-color: #FFFFFF;
+}
+
+.projectNameHeaderInput input {
+    font-size: 2rem;
+    width: 450px;
+
+}
+
+.inputField:valid label {
+    /* background-color: #FFFFFF; */
+}
+
+.detailsInput {
+    
+}
+
+.inputField input {
+    font-size: 18px !important;
+}
+
+.outcomeDescription input {
+    font-size: 12px !important;
+}
+
+.radioToggleButton {
+    line-height: 0.4em !important;
+}
+
+.selectedRadioButton {
+    background-color: #ABA7E3 !important;
+    -webkit-box-shadow: inset 1px 1px 2px 1px #333 !important;
+    -moz-box-shadow:    inset 1px 1px 2px 1px #333 !important;
+    box-shadow:         inset 1px 1px 2px 1px #333 !important;
+}
+
+.continuousFields {
+    text-align: right;
+}
+
+.dichContRadio, .attributeRadio, .formButton {
+    border: 1px rgba(0,0,0,0.3) solid !important;
+}
+
+.formButton {
+    box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.5), inset 0 -1px 2px rgba(170, 170, 170, 0.8), 0 3px 5px -3px rgba(100, 100, 100, 0.8) !important;
+}
+
+.totalInputBox {
+    width: 100px;
+}
+
+.projectNameInput {
+    width: 300px;
+}
+
+.timeOfMeasurement {
+    width: 87px;
+}
+
+.timeOfMeasurement input {
+    height: 17px !important;
+}
+
+.dropdown.icon {
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    top: 0.5em !important;
+    right: 0.1em !important;
+    font-size: 18px !important;
+}
+
+.unitOfTimeMeasurementsDropdown {
+    width: 114px !important;
+    min-width: 114px !important;
+}
+
+.loadFromServerDropDown {
+    width: 450px !important;
+}
+
+.studyTypeDropDown {
+    width: 250px !important;
+}
+
+.loadFromServerDropDown .dropdown.icon, .studyTypeDropDown .dropdown.icon, .populationDetailsDropdown .dropdown.icon, .populationUnitOfTimeMeasurementsDropdown .dropdown.icon {
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    top: 1.2em !important;
+    right: 1.2em !important;
+    font-size: 18px !important;
+}
+
+.populationDetailsDropdown {
+    width: 280px;
+}
+
+.loadFromJSONFileButton {
+    width: 200px;
+}
+
+.continueButton, .previousPageButton, .saveProgressButton {
+    line-height: 0.3em !important;
+    height: 2.5em !important;
+}
+
+.defaultSetButton {
+    background-color: #ABA7E3 !important;
+}
+
+.middleAlign {
+    vertical-align: bottom !important;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-bottom: 0px;
+}
+
+.App {
+    position: relative;
+    min-height: 100vh;
+}
+
+.App, body {
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.computablePublishingTopBar {
+    padding-top: 4px !important;
+    margin-bottom: 10px !important;
+    width: 100%;
+}
+
+.bottomNavigationBar {
+    position: absolute;
+    display: flex;
+    text-align: right;
+    bottom: 38px;
+    width: 100%;
+}
+
+.bottomNavigationButtons {
+    width: 100%;
+}
+
+footer {
+    background-image: linear-gradient(to bottom, rgba(255,0,0,0), rgba(204,204,238,0.9));
+    position: absolute;
+    display: flex;
+    font-size: 16px;
+    left: 0;
+    bottom: 0;
+    padding: 4px;
+    padding-top: 14px;
+    width: 100%;
+}

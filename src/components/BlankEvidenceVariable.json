@@ -1,0 +1,265 @@
+{
+  "resourceType": "EvidenceVariable",
+  "id": "",
+  "meta": {
+    "versionId": ""
+  },
+  "url": "",
+  "identifier": [
+    {
+      "use": "",
+      "type": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "system": "",
+      "value": "",
+      "period": {
+        "start": "",
+        "end": ""
+      },
+      "assigner": {
+        "reference": "",
+        "type": "",
+        "display": ""
+      }
+    }
+  ],
+  "name": "",
+  "title": "",
+  "shortTitle": "",
+  "subtitle": "",
+  "status": "",
+  "date": "",
+  "publisher": "",
+  "contact": [
+    {
+      "name": "",
+      "telecom": [
+        {
+          "system": "",
+          "value": "",
+          "use": "",
+          "rank": "",
+          "period": {
+            "start": "",
+            "end": ""
+          }
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "note": [
+    {
+      "text": ""
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "",
+        "version": "",
+        "code": "",
+        "display": "",
+        "userSelected": ""
+      },
+      "valueCodeableConcept": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "valueQuantity": {
+        "value": "",
+        "comparator": "",
+        "unit": "",
+        "system": "",
+        "code": ""
+      },
+      "valueRange": {
+        "low": {
+          "value": "",
+          "unit": "",
+          "system": "",
+          "code": ""
+        },
+        "high": {
+          "value": "",
+          "unit": "",
+          "system": "",
+          "code": ""
+        }
+      },
+      "valueReference": {
+        "reference": "",
+        "type": "",
+        "identifier": "",
+        "display": ""
+      }
+    }
+  ],
+  "jurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    }
+  ],
+  "copyright": "",
+  "approvalDate": "",
+  "lastReviewDate": "",
+  "effectivePeriod": {
+    "start": "",
+    "end": ""
+  },
+  "topic": {
+    "coding": [
+      {
+        "system": "",
+        "version": "",
+        "code": "",
+        "display": "",
+        "userSelected": ""
+      }
+    ],
+    "text": ""
+  },
+  "author": [
+    ""
+  ],
+  "editor": [
+    ""
+  ],
+  "reviewer": [
+    ""
+  ],
+  "endorser": [
+    ""
+  ],
+  "relatedArtifact": [
+    {
+      "type": "",
+      "label": "",
+      "display": "",
+      "citation": "",
+      "url": "",
+      "document": {
+        "contentType": "",
+        "language": "",
+        "data": "",
+        "url": "",
+        "size": "",
+        "hash": "",
+        "title": "",
+        "creation": ""
+      },
+      "resource": ""
+    }
+  ],
+  "type": "",
+  "actual": "",
+  "characteristicCombination": "",
+  "characteristic": [
+    {
+      "description": "",
+      "note": [
+        {
+          "text": ""
+        }
+      ],
+      "definition[x]": {
+        "definitionReference": {
+          "reference": "",
+          "type": "",
+          "identifier": "",
+          "display": ""
+        },
+        "definitionCanonical": "",
+        "definitionCodeableConcept": {
+          "coding": [
+            {
+              "system": "",
+              "code": "",
+              "display": ""
+            }
+          ]
+        },
+        "definitionExpression": {
+          "description": "",
+          "name": "",
+          "language": "",
+          "expression": "",
+          "reference": ""
+        }
+      },
+      "method": {
+        "coding": [
+          {
+            "system": "",
+            "code": "",
+            "display": ""
+          }
+        ]
+      },
+      "device": {
+        "reference": "",
+        "type": "",
+        "identifier": "",
+        "display": ""
+      },
+      "exclude": "",
+      "timeFromStart": {
+        "description": "",
+        "quantity": {
+          "value": "",
+          "comparator": "",
+          "unit": "",
+          "system": "",
+          "code": ""
+        },
+        "range": {
+          "low": {
+            "value": "",
+            "unit": "",
+            "system": "",
+            "code": ""
+          },
+          "high": {
+            "value": "",
+            "unit": "",
+            "system": "",
+            "code": ""
+          }
+        },
+        "note": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "groupMeasure": ""
+    }
+  ]
+}

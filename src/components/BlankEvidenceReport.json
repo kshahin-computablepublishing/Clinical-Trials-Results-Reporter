@@ -1,0 +1,231 @@
+{
+  "resourceType": "EvidenceReport",
+  "id": "",
+  "meta": {
+    "versionId": ""
+  },
+  "url": "",
+  "text": {
+    "status": "",
+    "div": ""
+  },
+  "status": "",
+  "useContext": [],
+  "date": "",
+  "title": "",
+  "identifier": [
+    {
+      "system": "",
+      "value": "",
+      "assigner": {
+        "reference": "",
+        "type": "",
+        "display": ""
+      }
+    }
+  ],
+  "relatedIdentifier": [
+    {
+      "system": "",
+      "value": "",
+      "assigner": {
+        "reference": "",
+        "type": "",
+        "display": ""
+      }
+    }
+  ],
+  "copyright": "",
+  "citeAs": {
+    "reference": "",
+    "type": "",
+    "identifier": "",
+    "display": ""
+  },
+  "type": {
+    "text": ""
+  },
+  "note": [
+    {
+      "text": ""
+    }
+  ],
+  "relatedArtifact": [
+    {
+      "type": "",
+      "label": "",
+      "display": "",
+      "citation": "",
+      "url": "",
+      "document": {
+        "contentType": "",
+        "language": "",
+        "data": "",
+        "url": "",
+        "title": ""
+      },
+      "resource": ""
+    }
+  ],
+  "subject": {
+    "characteristic": [
+      {
+        "code": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "valueReference": {
+          "reference": "",
+          "type": "",
+          "identifier": "",
+          "display": ""
+        },
+        "valueCodeableConcept": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "valueBoolean": "",
+        "valueQuantity": {
+          "value": "",
+          "comparator": "",
+          "unit": "",
+          "system": "",
+          "code": ""
+        },
+        "valueRange": {
+          "low": "",
+          "high": ""
+        },
+        "exclude": "",
+        "period": {
+          "start": "",
+          "end": ""
+        }
+      }
+    ],
+    "note": [
+      {
+        "text": ""
+      }
+    ]
+  },
+  "publisher": "",
+  "contact": [ {} ],
+  "author": [ {} ],
+  "editor": [ {} ],
+  "reviewer": [ {} ],
+  "endorser": [ {} ],
+  "relatesTo": [
+    {
+      "code": "",
+      "targetIdentifier": {
+        "system": "",
+        "value": "",
+        "assigner": {
+          "reference": "",
+          "type": "",
+          "display": ""
+        }
+      },
+      "targetReference": {
+        "reference": "",
+        "type": "",
+        "identifier": "",
+        "display": ""
+      }
+    }
+  ],
+  "section": [
+    {
+      "title": "",
+      "focus": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "author": [
+        {
+          "reference": "",
+          "type": "",
+          "identifier": "",
+          "display": ""
+        }
+      ],
+      "text": {
+        "status": "",
+        "div": ""
+      },
+      "mode": "",
+      "orderedBy": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "entryClassifier": [
+        {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        }
+      ],
+      "entryReference": {
+        "reference": "",
+        "type": "",
+        "identifier": "",
+        "display": ""
+      },
+      "emptyReason": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "section": [
+        ""
+      ]
+    }
+  ]
+}

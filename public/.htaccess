@@ -1,0 +1,21 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+Redirect /ctrr/0 /ctrr/
+Redirect /ctrr/1 /ctrr/
+Redirect /ctrr/2 /ctrr/
+Redirect /ctrr/3 /ctrr/
+Redirect /ctrr/4 /ctrr/
+Redirect /ctrr/5 /ctrr/
+Redirect /ctrr/6 /ctrr/
+Redirect /ctrr/7 /ctrr/
+Redirect /ctrr/8 /ctrr/
+Redirect /ctrr/9 /ctrr/
+Redirect /ctrr/10 /ctrr/
+Redirect /ctrr/11 /ctrr/
+Redirect /ctrr/12 /ctrr/
+Redirect /ctrr/13 /ctrr/
+Redirect /ctrr/14 /ctrr/
+Redirect /ctrr/15 /ctrr/
+Redirect /ctrr/NaN /ctrr/
+RewriteCond %{REQUEST_URI} ctrr
+RewriteRule ^(.*)$ https://www.computablepublishing.us/ctrr/$1 [R,L]

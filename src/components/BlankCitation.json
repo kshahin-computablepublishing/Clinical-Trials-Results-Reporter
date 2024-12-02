@@ -1,0 +1,465 @@
+{
+  "resourceType": "Citation",
+  "id": "",
+  "meta": {
+    "versionId": ""
+  },
+  "url": "",
+  "status": "",
+  "identifier": [
+    {
+      "system": "",
+      "value": "",
+      "assigner": {
+        "display": ""
+      }
+    }
+  ],
+  "relatedIdentifier": [
+    {
+      "system": "",
+      "value": "",
+      "assigner": {
+        "display": ""
+      }
+    }
+  ],
+  "summary": {
+    "style": {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    },
+    "text": ""
+  },
+  "dateCited": "",
+  "variantCitation": {
+    "type": {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    },
+    "value": "",
+    "baseCitation": {
+      "reference": "",
+      "type": "",
+      "identifier": "",
+      "display": ""
+    }
+  },
+  "articleTitle": [
+    {
+      "type": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "language": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "text": ""
+    }
+  ],
+  "webLocation": [
+    {
+      "type": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "url": ""
+    }
+  ],
+  "abstract": [
+    {
+      "type": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "language": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "text": "",
+      "copyright": ""
+    }
+  ],
+  "contributorship": {
+    "complete": "",
+    "entry": [
+      {
+        "name": {
+          "use": "",
+          "text": "",
+          "family": "",
+          "given": "",
+          "prefix": "",
+          "suffix": "",
+          "period": {
+            "start": "",
+            "end": ""
+          }
+        },
+        "initials": "",
+        "collectiveName": "",
+        "identifier": [
+          {
+            "system": "",
+            "value": "",
+            "assigner": {
+              "display": ""
+            }
+          }
+        ],
+        "affiliationInfo": [
+          {
+            "affiliation": "",
+            "role": "",
+            "identifier": [
+              {
+                "system": "",
+                "value": "",
+                "assigner": {
+                  "display": ""
+                }
+              }
+            ]
+          }
+        ],
+        "address": [],
+        "telecom": [
+          {
+            "system": "",
+            "value": "",
+            "use": "",
+            "rank": "",
+            "period": {
+              "start": "",
+              "end": ""
+            }
+          }
+        ],
+        "contribution": [
+          {
+            "coding": [
+              {
+                "system": "",
+                "version": "",
+                "code": "",
+                "display": "",
+                "userSelected": ""
+              }
+            ],
+            "text": ""
+          }
+        ],
+        "notAnAuthor": "",
+        "correspondingAuthor": "",
+        "listOrder": ""
+      }
+    ],
+    "summary": [
+      {
+        "type": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "style": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "source": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "value": ""
+      }
+    ]
+  },
+  "publicationForm": [
+    {
+      "publishingModel": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "publishedIn": {
+        "type": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "identifier": [
+          {
+            "system": "",
+            "value": "",
+            "assigner": {
+              "display": ""
+            }
+          }
+        ],
+        "title": "",
+        "publisher": {
+          "reference": "",
+          "type": "",
+          "identifier": "",
+          "display": ""
+        },
+        "publisherLocation": "",
+        "startDate": ""
+      },
+      "periodicRelease": [
+        {
+          "citedMedium": {
+            "coding": [
+              {
+                "system": "",
+                "version": "",
+                "code": "",
+                "display": "",
+                "userSelected": ""
+              }
+            ],
+            "text": ""
+          },
+          "volume": "",
+          "issue": "",
+          "dateOfPublication": {
+            "date": "",
+            "year": "",
+            "month": "",
+            "day": "",
+            "season": "",
+            "text": ""
+          }
+        }
+      ],
+      "articleDate": "",
+      "revisionDate": "",
+      "language": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "pageString": "",
+      "firstPage": "",
+      "lastPage": "",
+      "pageCount": ""
+    }
+  ],
+  "classifier": [
+    {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    }
+  ],
+  "keywordList": [
+    {
+      "owner": "",
+      "keyword": [
+        {
+          "majorTopic": "",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "relatedArtifact": [
+    {
+      "type": "",
+      "label": "",
+      "display": "",
+      "citation": "",
+      "url": "",
+      "document": {
+        "contentType": "",
+        "language": "",
+        "data": "",
+        "url": "",
+        "size": "",
+        "hash": "",
+        "title": "",
+        "creation": ""
+      },
+      "resource": ""
+    }
+  ],
+  "note": [
+    {
+      "text": ""
+    }
+  ],
+  "medline": {
+    "state": {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    },
+    "owner": {
+      "coding": [
+        {
+          "system": "",
+          "version": "",
+          "code": "",
+          "display": "",
+          "userSelected": ""
+        }
+      ],
+      "text": ""
+    },
+    "dateCreated": "",
+    "dateCompleted": "",
+    "dateRevised": "",
+    "dateOnPubMed": [
+      {
+        "publicationState": {
+          "coding": [
+            {
+              "system": "",
+              "version": "",
+              "code": "",
+              "display": "",
+              "userSelected": ""
+            }
+          ],
+          "text": ""
+        },
+        "date": ""
+      }
+    ],
+    "publicationState": "",
+    "relatedArticle": [
+      {
+        "citationReference": {
+          "reference": "",
+          "type": "Citation",
+          "identifier": "",
+          "display": ""
+        },
+        "citationMarkdown": "",
+        "identifier": [
+          {
+            "system": "",
+            "value": "",
+            "assigner": {
+              "display": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

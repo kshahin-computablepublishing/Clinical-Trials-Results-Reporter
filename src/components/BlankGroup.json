@@ -1,0 +1,103 @@
+{
+  "resourceType": "Group",
+  "id": "",
+  "meta": {
+    "versionId": ""
+  },
+  "identifier": [
+    {
+      "use": "",
+      "type": {
+        "coding": [
+          {
+            "system": "",
+            "version": "",
+            "code": "",
+            "display": "",
+            "userSelected": ""
+          }
+        ],
+        "text": ""
+      },
+      "system": "",
+      "value": "",
+      "period": {
+        "start": "",
+        "end": ""
+      },
+      "assigner": {
+        "reference": "",
+        "type": "",
+        "display": ""
+      }
+    }
+  ],
+  "active": "",
+  "type": "",
+  "actual": "",
+  "code": "",
+  "name": "",
+  "quantity": "",
+  "characteristic": [
+    {
+      "code": {
+        "coding": [
+          {
+            "system": "",
+            "code": "",
+            "display": ""
+          }
+        ],
+        "text": ""
+      },
+      "usageContext": [
+        ""
+      ],
+      "valueCodeableConcept": {
+        "coding": [
+          {
+            "system": "",
+            "code": "",
+            "display": ""
+          }
+        ],
+        "text": ""
+      },
+      "valueBoolean": "",
+      "valueQuantity": {
+        "value": "",
+        "comparator": "",
+        "unit": "",
+        "system": "",
+        "code": ""
+      },
+      "valueRange": {
+        "low": "",
+        "high": ""
+      },
+      "valueReference": {
+        "reference": "",
+        "type": "",
+        "identifier": "",
+        "display": ""
+      },
+      "exclude": "",
+      "period": {
+        "start": "",
+        "end": ""
+      }
+    }
+  ],
+  "member": [
+    {
+      "entity": {
+        "reference": "",
+        "type": "",
+        "identifier": "",
+        "display": ""
+      },
+      "period": "",
+      "inactive": ""
+    }
+  ]
+}
